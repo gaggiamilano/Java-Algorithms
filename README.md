@@ -1,5 +1,7 @@
 # The Algorithms - Java
 
+Voy a aprovechar que lo tengo en mis repositorios para comentar parte del codigo.
+
 NOTE: A [Development](https://github.com/TheAlgorithms/Java/tree/Development) branch is made for this repo where we are trying to migrate the existing project to a Java project structure. You can switch to [Development](https://github.com/TheAlgorithms/Java/tree/Development) branch for contributions. Please refer [this issue](https://github.com/TheAlgorithms/Java/issues/474) for more info.
 
 ### All algorithms implemented in Java (for education)
